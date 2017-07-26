@@ -26,3 +26,4 @@ Substitute ios for android if not on a Mac.
 
 "# CourseraProject_Hybrid_MobileApp"
 "# CourseraProject_Hybrid_MobileApp" 
+"# Coursera_Hybrid_mobileApp" 
